@@ -305,6 +305,7 @@ select {
     color:#000;
     text-align: left;
     font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .nav-tabs.tab-style > li > a {
