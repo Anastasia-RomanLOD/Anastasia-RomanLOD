@@ -302,10 +302,12 @@ select {
 }
 
 .normal {
-    color:#000;
+    color:#9fa3a7;
     text-align: left;
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
+    padding: 0;
+
 }
 
 .nav-tabs.tab-style > li > a {
