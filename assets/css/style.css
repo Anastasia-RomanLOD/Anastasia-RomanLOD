@@ -303,6 +303,8 @@ select {
 
 .normal {
     color:#000;
+    text-align: left;
+    font-size: 20px;
 }
 
 .nav-tabs.tab-style > li > a {
