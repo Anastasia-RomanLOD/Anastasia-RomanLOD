@@ -301,6 +301,10 @@ select {
     color: #fff;
 }
 
+.normal {
+    color:#000;
+}
+
 .nav-tabs.tab-style > li > a {
     position: relative;
     color: #26272d;
