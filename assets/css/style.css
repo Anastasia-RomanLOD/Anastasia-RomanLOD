@@ -561,7 +561,7 @@ html, body {
     padding-bottom: 70px;
 }
 
-#descr {
+.descr {
     font-size: 20px;
     font-style: italic;
 }
