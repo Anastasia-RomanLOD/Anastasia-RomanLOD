@@ -502,7 +502,6 @@ html, body {
     margin: 0 auto;
     padding: 0 15px;
     text-align: center;
-
 }
 
 .hero-text h1 {
@@ -513,7 +512,7 @@ html, body {
 .hero-text p {
     position: relative;
     margin: 45px 0 30px;
-    font-size: 20px;
+    font-size: 18px;
     color: #26272d;
 }
 
@@ -563,11 +562,9 @@ html, body {
 }
 
 .descr {
-    font-size: 15px;
+    font-size: 20px;
     font-style: italic;
     text-align: left;
-    margin: 0;
-    padding: 0;
 }
 
 .subheading-text {
