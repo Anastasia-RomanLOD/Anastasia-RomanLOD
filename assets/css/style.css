@@ -499,9 +499,10 @@ html, body {
 .hero-text {
     max-width: 890px;
     width: 100%;
-    margin: 3%;
-    padding: 3%;
+    margin: 0 auto;
+    padding: 0 15px;
     text-align: center;
+
 }
 
 .hero-text h1 {
