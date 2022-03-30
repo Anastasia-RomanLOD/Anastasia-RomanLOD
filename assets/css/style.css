@@ -499,8 +499,8 @@ html, body {
 .hero-text {
     max-width: 890px;
     width: 100%;
-    margin: 0 auto;
-    padding: 0 15px;
+    margin: 3%;
+    padding: 3%;
     text-align: center;
 }
 
