@@ -152,6 +152,13 @@ h1,h2,h3,h4,h5 {
     text-align: center;
 }
 
+h4{
+    padding:20pt;
+}
+
+#final{
+    padding:20pt;
+}
 
 p + p {
     margin-top: 40px;
